@@ -1,0 +1,10 @@
+krzys 20
+michalek 17
+kubus 14
+dawidek 12
+anonim 12
+xyz 10
+projekt 6
+abcd 5
+witek 4
+ostatni 3
